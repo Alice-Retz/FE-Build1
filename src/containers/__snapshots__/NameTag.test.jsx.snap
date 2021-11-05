@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NameTag container changes the displayed name 1`] = `
+Array [
+  <h1>
+    Hello
+    ,
+  </h1>,
+]
+`;
+
+exports[`NameTag container changes the displayed name 2`] = `
+Array [
+  <h1>
+    Alice
+  </h1>,
+]
+`;
